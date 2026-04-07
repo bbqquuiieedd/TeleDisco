@@ -1,0 +1,10 @@
+#container {
+    /* Позиционарование контейнера по центру */
+    margin: auto;
+    border: 1px solid;
+    width: 50%;
+}
+
+main h2 {
+    text-align: center;
+}
